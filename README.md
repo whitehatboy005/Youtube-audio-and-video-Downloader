@@ -1,7 +1,7 @@
 # ▶️YouTube Video Downloader
 This Python application provides a graphical user interface (GUI) for downloading YouTube videos or audio using the YT-DLP library. Users can enter a YouTube URL, select a download directory, choose between video or audio downloads, and initiate the download process.
 
-## 🚀 Features
+## 📌 Features
 - **YouTube URL Entry**: Allows users to input the URL of the YouTube video they wish to download.
 - **Download Directory Selection**: Enables users to browse and select a directory where the downloaded file will be saved.
 - **Download Type**: Provides options to download either the video or just the audio (MP4 or MP3 formats).
